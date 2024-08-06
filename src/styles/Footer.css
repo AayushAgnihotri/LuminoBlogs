@@ -1,0 +1,17 @@
+.footer {
+    background: linear-gradient(to right, #1f2937, #4b5563); /* Dark Gray to Gray-800 */
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+    position: relative;
+}
+
+.footer a {
+    color: #3b82f6; /* Blue-500 */
+    text-decoration: none;
+    margin: 0 0.5rem;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
